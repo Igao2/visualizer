@@ -1,0 +1,21 @@
+@media screen and (min-width: 320px) and (orientation:portrait)
+{
+ .dba{
+    width: 60vh !important;
+    height: auto;
+ }
+
+}
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #2C2C2C;
+}
+
+.dba {
+    box-shadow: 2px 2px 2px 1px white;
+    width: 100vh;
+    height: auto; /* Mantém a proporção da imagem */
+    /* Se adapta ao tamanho do contêiner, cortando se necessário */
+}
