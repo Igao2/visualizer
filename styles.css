@@ -1,7 +1,7 @@
 @media screen and (min-width: 320px) and (orientation:portrait)
 {
  .dba{
-    width: 60vh !important;
+    width: 50vh !important;
     height: auto;
  }
 
